@@ -9,7 +9,7 @@ const el = document.getElementById('root');
 const root = createRoot(el);
 
 root.render(
-    <Provider>
+    <Provider store={store}>
         <App />
     </Provider>
 );
