@@ -1,35 +1,15 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Vasco"
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking trip",
-      "userId": 1
-    },
-    {
-      "id": "7276",
-      "userId": 1,
-      "title": "Sleek Rubber Hat"
-    },
-    {
-      "id": "daa4",
-      "userId": 1,
-      "title": "Practical Concrete Hat"
-    },
-    {
-      "id": "bb89",
-      "userId": 1,
-      "title": "Small Soft Chips"
-    },
-    {
-      "id": "28a4",
-      "userId": 1,
-      "title": "Tasty Plastic Chips"
+      "id": "f15d",
+      "userId": "1",
+      "title": "Electronic Granite Towels"
     }
   ],
   "photos": []
